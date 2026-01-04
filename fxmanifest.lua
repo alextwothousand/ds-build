@@ -2,6 +2,7 @@
 -- If you fuck with this, I will personally force feed you fish while you are sleeping.
 
 fx_version "cerulean"
+node_version "22"
 game "common"
 
 version "1.0.0"
